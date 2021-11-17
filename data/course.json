@@ -1,0 +1,50 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Planetary Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1aee9573-c646-7512-7f8a-11b72f04879e",
+      "62ce5249-fee9-d425-0d77-765502ec1f24",
+      "d611afa5-56fb-9311-806f-323a785e0dcc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Climate Physics and Chemistry",
+  "course_description": "This course introduces students to climate studies, including beginnings of the solar system, time scales, and climate in human history. It is offered to both undergraduate and graduate students with different requirements.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "12.301",
+  "primary_course_number": "12.842",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
